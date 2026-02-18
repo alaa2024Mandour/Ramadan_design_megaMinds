@@ -1,0 +1,29 @@
+.box {
+    background-color: rgba(129, 125, 118, 0.411);
+    width: fit-content;
+    padding: 10px;
+    text-align: center;
+    margin-right: 150;
+    border-radius: 50px;
+}
+
+img{
+    border-radius: 50px;
+}
+
+a{
+    color: rgb(29, 17, 9);
+    font-weight: 700;
+    font-size:25px;
+}
+
+body{
+    background-image: url("https://www.moroccoworldnews.com/wp-content/uploads/2026/02/When-is-Ramadan-2026-750x536.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(20px);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
